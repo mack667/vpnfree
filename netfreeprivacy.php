@@ -134,6 +134,6 @@ Should the changes affect processing activities performed on the basis of the Us
 
 Definitions and legal references
 
-Latest update: May 30, 2023
+Latest update: Jun 06, 2023
 
 iubenda hosts this content and only collects
